@@ -1,10 +1,10 @@
 # Accelebrate Video Shorts by T4D.IO
 
-### Automate Code Linting and Unit Testing with Git Hooks and Azure Pipelines
+### Automate Code Linting and Unit Testing with Azure Pipelines
 
 [![YouTube Video](#)](#)
 
-This video short demonstation represents some of the content covered in the following React courses taught by [Accelebrate](https://www.accelebrate.com/):
+This demonstration represents some of the content covered in the following React courses taught by [Accelebrate](https://www.accelebrate.com/):
 
 - [Introduction to React using JavaScript/ECMAScript](https://www.accelebrate.com/training/react)
 - [Introduction to React using TypeScript](https://www.accelebrate.com/training/react-typescript)
@@ -71,7 +71,7 @@ npm start
 
 When the development web server starts, it should open the React web site in your default web browser. The url will be [http://localhost:3000](http://localhost:3000)
 
-**Step 6.** Start watching the [YouTube Video](#) and code along to learn more about how to use Git Hooks and Azure Pipelines to implement automatic code linting and unit test execution on the client and the server.
+**Step 6.** Start watching the [YouTube Video](#) and code along to learn more about how to use Azure Pipelines to implement automatic code linting and unit test execution on Git pull requests.
 
 
 
