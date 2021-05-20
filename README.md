@@ -2,7 +2,7 @@
 
 ### Automate Code Linting and Unit Testing with Azure Pipelines
 
-[![YouTube Video](#)](#)
+[![YouTube Video](images/video-screenshot.png)](https://youtu.be/cxg1Riq2lAA)
 
 This demonstration represents some of the content covered in the following React courses taught by [Accelebrate](https://www.accelebrate.com/):
 
@@ -71,7 +71,7 @@ npm start
 
 When the development web server starts, it should open the React web site in your default web browser. The url will be [http://localhost:3000](http://localhost:3000)
 
-**Step 6.** Start watching the [YouTube Video](#) and code along to learn more about how to use Azure Pipelines to implement automatic code linting and unit test execution on Git pull requests.
+**Step 6.** Start watching the [YouTube Video](https://youtu.be/cxg1Riq2lAA) and code along to learn more about how to use Azure Pipelines to implement automatic code linting and unit test execution on Git pull requests.
 
 
 
