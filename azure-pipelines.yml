@@ -10,13 +10,6 @@ pool:
   name : Default
 
 steps:
-- task: NodeTool@0
-  inputs:
-    versionSource: 'spec'
-    versionSpec: 'v18.15.0'
-- script:
-    npm install
-  displayName: 'npm install'
 - script: 
     npx eslint --max-warning=0 src || exit 1
     displayname:'lint code'  
