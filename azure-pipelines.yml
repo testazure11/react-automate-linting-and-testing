@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: Windows-latest
+  name : test
 
 steps:
 - task: NodeTool@0
