@@ -11,7 +11,7 @@ pool:
 
 steps:
 - script: 
-    npx eslint --max-warning=0 src || exit 1
+    npx eslint --max-warnings=0 src || exit 1
     displayname:'lint code'  
 - script: 
     npm test -- --watchAll=false || exit 1
